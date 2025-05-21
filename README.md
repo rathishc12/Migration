@@ -1,7 +1,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 ```
 NAME: RATHISH KUMAR C
-### REG NO: 212222100043
+REG NO: 212222100043
 ```
 ## Aim:
 To move the files between virtual machine.
